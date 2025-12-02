@@ -1,0 +1,13 @@
+streamlit
+torch
+torchvision
+opencv-python-headless
+numpy
+Pillow
+requests
+Flask
+scikit-learn
+nltk
+scipy
+matplotlib
+seaborn
